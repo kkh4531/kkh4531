@@ -6,3 +6,5 @@
 자격증
 정보처리기사
 SQLD
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkh4531&show_icons=true&theme=radical)
