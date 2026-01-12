@@ -7,7 +7,8 @@
 정보처리기사
 SQLD
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkh4531)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkh4531&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kkh4531&show_icons=true">
 
 포트폴리오<br>
 https://www.notion.so/Hi-I-m-Kihyun-Kim-190eb30f99b480bd9501c2b8f3a5037c
