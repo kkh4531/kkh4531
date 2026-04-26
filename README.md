@@ -1,7 +1,7 @@
 ## Hi I'm kihyun kim 👋
 
 백준 티어<br>
-![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=kkhkh4531&v=2&streak=true)
+![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=kkhkh4531&v=1&streak=true)
 
 자격증<br>
 정보처리기사
