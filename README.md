@@ -2,7 +2,6 @@
 
 백준<br>
 ![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=kkhkh4531&v=1&streak=true)
-https://raw.githubusercontent.com/kkh4531/programmers-badge-v1/master/static/result.svg
 <br>
 자격증<br>
 정보처리기사
