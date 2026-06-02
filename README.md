@@ -6,7 +6,7 @@
 자격증<br>
 정보처리기사
 SQLD
-
+ADsP
 포트폴리오<br>
 https://www.notion.so/Hi-I-m-Kihyun-Kim-190eb30f99b480bd9501c2b8f3a5037c
 
