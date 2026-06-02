@@ -2,7 +2,8 @@
 
 백준<br>
 ![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=kkhkh4531&v=1&streak=true)
-https://raw.githubusercontent.com/kkhkh4531/PROGRAMMERS-BADGE/master/static/result.svg
+https://raw.githubusercontent.com/{kkhkh4531}/{PROGRAMMERS-BADGE}/master/static/result.svg
+<br>
 자격증<br>
 정보처리기사
 SQLD
